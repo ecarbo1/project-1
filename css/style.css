@@ -1,0 +1,112 @@
+@media screen and (min-width: 250px){
+  html{
+    text-align: center;
+    background: #cccccc;
+	font-family: Impact, Arial, sans-serif;
+  }
+	
+  h1{
+    font-size: 2em;
+    color: white;
+    background-color: #0369FF;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 0 5% 0;
+    padding: 2.5%;
+  }
+  
+  h2{
+    margin: auto;
+    color: #0369FF;
+    font-size: 1.7em;
+  }
+
+  label{
+    font-size:1.2em;
+	font-family: Oswald, Arial, sans-serif;
+	
+  }
+
+  div{
+    float: left;
+	clear: both;
+	margin: 5%;
+	text-align: left;
+  }
+  
+  section{
+    clear:both;
+  }
+    
+  #contact_info label{
+	float:left;
+	position: relative;
+  }
+  
+  #contact_info input{
+	float: left;
+	clear: both;
+	position: relative;
+	margin: 10% 0 0 0%;
+  }
+  
+  #submit{
+	position: relative;
+	clear:both;
+    font-family: Impact;
+    box-sizing: border-box;
+    width: 40%;
+    height: 3em;
+    background-color: orange;
+    color: black;
+    font-size: 1.25em;
+    border-radius: 30%;
+    border: solid thick #0369FF;	
+  }
+  
+}
+
+@media screen and (min-width: 620px){
+  h1{
+    font-size: 3em;
+	margin: 0 0 2.5% 0;
+  }
+  
+  h2{
+    font-size: 2.5em;
+  }
+  
+  label{
+    font-size:2em;
+  }
+  
+  div{
+    float: none;
+	clear: none;
+	margin: auto;
+	left: 10%;
+	position: relative;
+  }
+  
+  #contact_info label{
+	float:none;
+	position: relative;
+	left: 10%;
+  }
+  
+  #contact_info input{
+	float: none;
+	clear: none;
+	left: 10%;
+	position: relative;
+	margin: 1% 5% 0 0%;
+	width: 20%;
+	height: 2em;
+  }
+  
+  #submit{
+	font-size: 2em;  
+    margin: 0 0 5% 0;
+  }
+  	
+}

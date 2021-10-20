@@ -52,9 +52,8 @@
   
   #submit{
 	position: relative;
-	clear:both;
-    font-family: Impact;
-    box-sizing: border-box;
+    font-family: Arial;
+    box-sizing: box;
     width: 40%;
     height: 3em;
     background-color: #c2c5aa;

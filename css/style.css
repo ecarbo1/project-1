@@ -1,37 +1,36 @@
-@media screen and (min-width: 250px){
+@media screen and (min-width: 225px){
   html{
     text-align: center;
-    background: #cccccc;
-	font-family: Impact, Arial, sans-serif;
+    background: #ffb703;
+	font-family: Ubuntu, sans-serif;
   }
 	
   h1{
     font-size: 2em;
     color: white;
-    background-color: #0369FF;
+    background-color: #e29578;
     box-sizing: border-box;
     width: 100%;
-    margin: 0 0 5% 0;
-    padding: 2.5%;
+    padding: 3%;
   }
   
   h2{
     margin: auto;
-    color: #0369FF;
-    font-size: 1.7em;
+    color: #003049;
+    font-size: 2em;
   }
 
   label{
-    font-size:1.2em;
-	font-family: Oswald, Arial, sans-serif;
+    font-size:1.5em;
+	font-family: Arial, sans-serif;
 	
   }
 
   div{
     float: left;
 	clear: both;
-	margin: 5%;
-	text-align: left;
+	margin: 10%;
+	text-align: center;
   }
   
   section{
@@ -57,11 +56,11 @@
     box-sizing: border-box;
     width: 40%;
     height: 3em;
-    background-color: orange;
+    background-color: #c2c5aa;
     color: black;
     font-size: 1.25em;
     border-radius: 30%;
-    border: solid thick #0369FF;	
+    border: #d62828;	
   }
   
 }

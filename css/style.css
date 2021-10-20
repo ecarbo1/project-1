@@ -44,10 +44,8 @@
   }
   
   #contact_info input{
-	float: center;
 	clear: both;
 	margin: 10% 0 0 0%;
-	text-align: center;
   }
   
   #submit{

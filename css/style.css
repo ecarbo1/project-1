@@ -40,7 +40,6 @@
   }
     
   #contact_info label{
-	float:center;
 	text-align: center;
   }
   
@@ -53,7 +52,7 @@
   
   #submit{
     font-family: Arial;
-    box-sizing: box;
+    box-sizing: border-box;
     width: 40%;
     height: 3em;
     background-color: #c2c5aa;

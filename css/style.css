@@ -40,15 +40,13 @@
   }
     
   #contact_info label{
-	float:left;
-	position: relative;
+	float:center;
 	text-align: center;
   }
   
   #contact_info input{
-	float: left;
+	float: center;
 	clear: both;
-	position: relative;
 	margin: 10% 0 0 0%;
 	text-align: center;
   }

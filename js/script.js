@@ -34,9 +34,3 @@ document.getElementsByName('news_field')[0].addEventListener('blur', function(){
 document.getElementsByName('news_field')[1].addEventListener('blur', function(){radioblur(1);});
 document.getElementsByName('news_field')[2].addEventListener('blur', function(){radioblur(2);});
 document.getElementsByName('news_field')[3].addEventListener('blur', function(){radioblur(3);});
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs

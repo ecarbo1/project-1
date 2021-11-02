@@ -11,7 +11,7 @@ function btnClick(){
   b.style.color = 'white';
 	
   var name = document.getElementsByName('name_field')[0].value;
-  alert('The gamer' + name + 'has been created');
+  alert('The gamer ' + name + ' has been created');
 }
 
 function radioblur(i){

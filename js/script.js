@@ -7,11 +7,11 @@ function jschg(){
 }
 
 function btnClick(){	
-  b.style.backgroundColor = '560bad';
+  b.style.backgroundColor = 'grey';
   b.style.color = 'white';
 	
-  var name = document.getElementsByName('name_field')[0].value;
-  alert('The subscriber' + name + ' has been created');
+  var name = document.getElementsByName('fname_field')[0].value;
+  alert('The account ' + name + ' has been made');
 }
 
 function radioblur(i){

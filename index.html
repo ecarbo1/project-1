@@ -1,2 +1,50 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+	<title>Sign-Up Page</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" media="screen" href="css/reset.css" />
+	<link rel="stylesheet" media="screen" href="css/style.css" />
+	<link rel="preconnect" href="https://font.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+	<script async type="text/javascript" src="js/script.js"></script>
+</head>
+<body>
+	<h1>GAMER WEEKLY</h1>
+		<h2>Sub Info</h2>
+			<section id="contact_info">
+				<div>
+					<label>Sub Name:</label>
+						<input type="text" name="fname_field" placeholder="First Name">
+						<input type="text" name="lname_field" placeholder="Last Name">
+				</div>
+				<div>
+					<label>Phone Number:</label>
+						<input type="tel" name="phone_field" placeholder="123-456-7891">
+				</div>
+				<div>
+					<label>Email:</label>
+						<input type="email" name="email_field" placeholder="html@hawk.iit.edu">
+				</div>
+			</section>
+			<section id="radio_grp">
+				<h2>Reach out options: </h2>
+				<div>
+					<input type="radio" id="text_news" name="news_field" value="text">
+						<label for="text_news">Obtain weekly through text message</label>
+			  </div>
+			  <div>
+					<input type="radio" id="email_news" name="news_field" value="email">
+						<label for="email_news">Obtain weekly through email</label>
+			  </div>
+			  <div>
+					<input type="radio" id="both_message" name="news_field" value="both">
+						<label for="both_message">Obtain through text message and email</label>
+			  </div>
+			</section>
+			<input id="submit" type="submit" value="Sign Me Up!">
+	</form>
+</body>
+</html>
 	

@@ -14,10 +14,6 @@ function btnClick(){
   alert('The account ' + name + ' has been made');
 }
 
-function radiofocus(i){
-  document.getElementsByTagName('label')[i+4].style.color = 'orange';
-}
-
 function radioblur(i){
   document.getElementsByTagName('label')[i+4].style.color = 'black';
 }

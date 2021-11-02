@@ -79,7 +79,7 @@
   div{
     float: none;
 	clear: none;
-	margin: auto;
+	margin: 0;
 	left: 10%;
 	position: relative;
   }
@@ -92,7 +92,6 @@
   #contact_info input{
 	float: none;
 	clear: none;
-	left: 10%;
 	position: relative;
 	width: 20%;
 	height: 2em;

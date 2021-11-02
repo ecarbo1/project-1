@@ -46,7 +46,9 @@
   }
   
   #contact_info input{
-	
+	width: 27%;
+	font-size: 1.32em;
+	padding: 10px;
   }
   
   #submit{

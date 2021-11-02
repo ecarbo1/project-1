@@ -48,8 +48,7 @@
   }
   
   #contact_info input{
-	margin: 3em 0 1em 0;
-	padding: 1em;
+	
   }
   
   #submit{
@@ -57,7 +56,7 @@
     box-sizing: border-box;
     width: 25%;
     height: 3em;
-    background-color: #90e0ef;
+    background-color: #560bad;
     color: white;
     font-size: 1.25em;
 	margin: auto; 

@@ -1,16 +1,16 @@
-@media screen and (min-width: 225px){
+@media screen and (min-width: 300px){
   html{
     text-align: center;
-    background: #ffb703;
-	font-family: Ubuntu, sans-serif;
+    background: #90e0ef;
+	font-family: sans-serif, Ubuntu;
   }
 	
   h1{
     font-size: 2em;
     color: white;
-    background-color: #e29578;
+    background-color: #560bad;
     box-sizing: border-box;
-    width: 100%;
+    width: 90%;
     padding: 3%;
   }
   
@@ -23,7 +23,7 @@
   label{
     font-size:1.5em;
 	font-family: Arial, sans-serif;
-	text-align: center;
+	text-align: left;
 	
   }
 
@@ -45,7 +45,6 @@
   
   #contact_info input{
 	clear: both;
-	margin: 10% 0 0 0%;
 	text-align: center;
   }
   

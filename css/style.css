@@ -87,7 +87,6 @@
   #contact_info label{
 	float:none;
 	position: relative;
-	left: 10%;
   }
   
   #contact_info input{
@@ -95,7 +94,6 @@
 	clear: none;
 	left: 10%;
 	position: relative;
-	margin: 1% 5% 0 0%;
 	width: 20%;
 	height: 2em;
   }

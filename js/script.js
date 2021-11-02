@@ -7,7 +7,7 @@ function jschg(){
 }
 
 function btnClick(){	
-  b.style.backgroundColor = '560bad';
+  b.style.backgroundColor = 'grey';
   b.style.color = 'white';
 	
   var name = document.getElementsByName('fname_field')[0].value + ' ' + document.getElementsByName('lname_field')[0].value;

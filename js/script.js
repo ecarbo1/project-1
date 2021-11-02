@@ -7,11 +7,11 @@ function jschg(){
 }
 
 function btnClick(){	
-  b.style.backgroundColor = 'grey';
+  b.style.backgroundColor = '560bad';
   b.style.color = 'white';
 	
-  var name = document.getElementsByName('fname_field')[0].value;
-  alert('The account ' + name + ' has been made');
+  var name = document.getElementsByName('name_field')[0].value;
+  alert('The gamer' + name + 'has been created');
 }
 
 function radioblur(i){

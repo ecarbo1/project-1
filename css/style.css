@@ -1,46 +1,4 @@
-@media screen and (min-width: 300px){
-  h1{
-    font-size: 3em;
-	margin: 0 0 2.5% 0;
-  }
-  
-  h2{
-    font-size: 2.5em;
-  }
-  
-  label{
-    font-size:2em;
-  }
-  
-  div{
-    float: none;
-	clear: none;
-	margin: 0;
-	left: 10%;
-	position: relative;
-  }
-  
-  #contact_info label{
-	float:none;
-	position: relative;
-  }
-  
-  #contact_info input{
-	float: none;
-	clear: none;
-	position: relative;
-	width: 20%;
-	height: 2em;
-  }
-  
-  #submit{
-	font-size: 2em;  
-    margin: 0 0 5% 0;
-  }
-  	
-}
-
-@media screen and (min-width: 620px){
+@media screen and (min-width: 900px){
  html{
     line-height: 1.2em;
     background: #90e0ef;
@@ -145,5 +103,47 @@
 	font-size: 2em;  
     margin: 0 0 5% 0;
   }
+
+@media screen and (min-width: 300px){
+  
+  h1{
+    font-size: 3em;
+	margin: 0 0 2.5% 0;
+  }
+  
+  h2{
+    font-size: 2.5em;
+  }
+  
+  label{
+    font-size:2em;
+  }
+  
+  div{
+    float: none;
+	clear: none;
+	margin: 0;
+	left: 10%;
+	position: relative;
+  }
+  
+  #contact_info label{
+	float:none;
+	position: relative;
+  }
+  
+  #contact_info input{
+	float: none;
+	clear: none;
+	position: relative;
+	width: 20%;
+	height: 2em;
+  }
+  
+  #submit{
+	font-size: 2em;  
+    margin: 0 0 5% 0;
+  }
   	
 }
+  

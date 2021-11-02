@@ -40,10 +40,12 @@
   }
     
   #contact_info label{
+	margin: auto;
 	text-align: center;
   }
   
   #contact_info input{
+	margin: auto;
 	clear: both;
 	text-align: center;
   }

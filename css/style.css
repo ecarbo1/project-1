@@ -47,10 +47,8 @@
   }
   
   #contact_info input{
-	clear: both;
-	text-align: center;
 	margin: 3em 0 1em 0;
-	padding: 2em;
+	padding: 1em;
   }
   
   #submit{

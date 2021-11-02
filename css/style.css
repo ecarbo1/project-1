@@ -1,9 +1,9 @@
 @media screen and (min-width: 300px){
   html{
-    text-align: center;
+    line-height: 1.2em;
     background: #90e0ef;
 	font-family: sans-serif, Ubuntu;
-	padding: 1.170em;
+	padding:1.282em;
   }
 	
   h1{

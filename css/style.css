@@ -3,6 +3,7 @@
     text-align: center;
     background: #90e0ef;
 	font-family: sans-serif, Ubuntu;
+	padding: 1.170em;
   }
 	
   h1{
@@ -40,14 +41,17 @@
   }
     
   #contact_info label{
-	margin: auto;
+	margin: 3em 0 1em 0;
 	text-align: center;
+	padding: 2em;
   }
   
   #contact_info input{
 	margin: auto;
 	clear: both;
 	text-align: center;
+	margin: 3em 0 1em 0;
+	padding: 2em;
   }
   
   #submit{
@@ -58,6 +62,7 @@
     background-color: #c2c5aa;
     color: black;
     font-size: 1.25em;
+	padding: 0.7em;
   }
   
 }

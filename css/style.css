@@ -27,6 +27,11 @@
 	margin: 0 1.5%;
   }
 
+  p{
+	  font-size: 30px
+	  
+  }
+  
   div{
     float: left;
 	clear: both;
